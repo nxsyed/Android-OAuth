@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PubNub Oauth</string>
+    <string name="com_auth0_client_id">MMfrDXK0tjEGo3xSOglqy7ETZysbcbcl</string>
+    <string name="com_auth0_domain">pubnub.auth0.com</string>
+</resources>
